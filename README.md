@@ -1,6 +1,8 @@
 <img src="Fig/NR-logo_utvidet_r32g60b136_small.png" align="right" height="50px"/>
 
-# Seal data to be analysed by the rSPAMM package
+# Harp and Hooded seal data for the West Ice
+
+### Updated data on biological parameters, pup production estimates, and priors
 
 #### T. A. Øigård and M. Biuw
 
