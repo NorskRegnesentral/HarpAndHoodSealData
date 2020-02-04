@@ -10,4 +10,8 @@
 This folder contains data which can be analyzed by the *rSPAMM* package.
 
 To download this data install the [rSPAMM](https://www.github.com/NorskRegnesentral/rSPAMM)-package and run:
+```{r}
+downloadData()
+```
 
+For details about these data look at the vignette in the *rSPAMM* package.
