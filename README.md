@@ -1,4 +1,4 @@
-<img src="Scripts/Fig/NR-logo_utvidet_r32g60b136_small.png" align="right" height="50px"/>
+<img src="Scripts/Fig/Logos.png" align="right" height="50px"/>
 
 # Harp and Hooded seal data for the West Ice and the East Ice
 
